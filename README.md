@@ -29,3 +29,7 @@ UserDecorator.new(user)
 # or 
 UserDecorator.decorate(user)
 ```
+
+## TODO
+
+* Add benchmarks (comparision to Draper)
